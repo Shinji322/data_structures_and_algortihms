@@ -26,7 +26,6 @@ typedef struct node
 }
 node;
 
-// TODO: Choose number of buckets in hash table
 /* const unsigned int N = 26; */
 const unsigned int N = 100000;
 unsigned int size_dict = 0; // a counter variable
